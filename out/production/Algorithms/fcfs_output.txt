@@ -1,0 +1,52 @@
+FCFS Scheduling
+
+Name: T1
+Tid: 0
+Priority: 4
+Burst: 20
+
+
+Name: T2
+Tid: 1
+Priority: 3
+Burst: 25
+
+
+Name: T3
+Tid: 2
+Priority: 3
+Burst: 25
+
+
+Name: T4
+Tid: 3
+Priority: 5
+Burst: 15
+
+
+Name: T5
+Tid: 4
+Priority: 5
+Burst: 20
+
+
+Name: T6
+Tid: 5
+Priority: 1
+Burst: 10
+
+
+Name: T7
+Tid: 6
+Priority: 3
+Burst: 30
+
+
+Name: T8
+Tid: 7
+Priority: 10
+Burst: 25
+
+
+Average wait time: 73.125
+	Average turnaround time: 94.375

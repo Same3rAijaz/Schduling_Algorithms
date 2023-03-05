@@ -1,0 +1,41 @@
+Round-robin Scheduling:
+
+Name: T1
+Tid: 0
+Priority: 40
+Burst: 50
+
+
+Name: T2
+Tid: 1
+Priority: 40
+Burst: 50
+
+
+Name: T3
+Tid: 2
+Priority: 40
+Burst: 50
+
+
+Name: T4
+Tid: 3
+Priority: 40
+Burst: 50
+
+
+Name: T5
+Tid: 4
+Priority: 40
+Burst: 50
+
+
+Name: T6
+Tid: 5
+Priority: 40
+Burst: 50
+
+
+Average waiting time: 125.0ms
+Average turnaround time: 175.0ms
+
